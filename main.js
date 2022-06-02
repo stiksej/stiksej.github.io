@@ -16,7 +16,7 @@ $(document).ready(function(){
 
 	setInterval(function(){
 		nextSlider();
-	}, 4000);
+	}, 2000);
 
 	// FUNKCJE =========================================================
 

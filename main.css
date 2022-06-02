@@ -25,11 +25,11 @@
   
   .logo{
     float: left;
-    padding: 20px 0;
+    padding: 20px 0px 0px 0px;
   }
   
   .logo img{
-    height: 50px;
+    height: 30px;
   }
   
   .navigation-menu{
@@ -61,25 +61,6 @@
     font-size: 16px;
   }
   
-  .home{
-    color: #ff6b6b;
-  }
-  
-  .about{
-    color: #0abde3;
-  }
-  
-  .works{
-    color: #feca57;
-  }
-  
-  .team{
-    color: #5f27cd;
-  }
-  
-  .contact{
-    color: #1dd1a1;
-  }
   
   .menu-toggle-btn{
     float: right;
@@ -103,7 +84,7 @@
       max-width: 400px;
       background: #172b4d;
       top: 90px;
-      right: 0;
+      right: auto;
       display: none;
       padding: 20px 40px;
       box-sizing: border-box;
