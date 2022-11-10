@@ -1,6 +1,6 @@
 (function() {
     window.onload = function() {
-        window.setTimeout(fadeout, 500);
+        window.setTimeout(fadeout, 5000);
     }
 
     function fadeout() {
